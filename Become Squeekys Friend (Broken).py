@@ -6,6 +6,6 @@ print(f"{name}:yo whats up world today we at wendys trying out the new chicken f
 print("Squeeky: OHHH WEEE!")
 print(f"{name}: Let's get our grace on yo.")
 print("Squeeky: Amen and amen again")
-print(f"{name}: Lets dig in"
+print(f"{name}: Lets dig in")
 print("Squeeky: OOOOHHH WEEEE")
 print(": whats up world")
