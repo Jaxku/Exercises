@@ -1,7 +1,7 @@
 password = (input("Enter your password: "))
 while password != "souldossier":
-    print("Not Soul Dossier")
+    print("Not Soul Dossier!!!")
     password = (input("Enter your password: "))
 
 
-print("Soul Dossier (correct)")
+print("Access Granted to Soul Dossier")
