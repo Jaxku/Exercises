@@ -27,3 +27,9 @@ print("---------------------------------------------------")
 print(" ")
 
 print(fruit[2:3])
+print(" ")
+print("---------------------------------------------------")
+print(" ")
+
+listmembership2 = [3, "cat", [56, "dog"], [ ], 3.14, False]
+print(3.14 in listmembership2)
