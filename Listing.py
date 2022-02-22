@@ -14,9 +14,11 @@ for i2 in fruit:
     print(i2)
 print(len(numbers))
 print(len(fruit))
+
 print(" ")
 print("---------------------------------------------------")
 print(" ")
+
 #Printing only a few text strings in a list.
 print(numbers[1])
 print(fruit[2])
@@ -27,6 +29,7 @@ print("---------------------------------------------------")
 print(" ")
 
 print(fruit[2:3])
+
 print(" ")
 print("---------------------------------------------------")
 print(" ")
