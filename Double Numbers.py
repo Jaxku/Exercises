@@ -5,4 +5,5 @@ def calculate_double(amount):
 # Main routine
 question = int(input("How much? "))
 answer = calculate_double(question)
-print(f"Double {question} is {answer}")
+print(f"Double {question} is {calculate_double(question)}")
+
